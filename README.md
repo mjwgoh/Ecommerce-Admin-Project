@@ -1,6 +1,3 @@
-# Creating a README.md content based on the user's request
-
-readme_content = """
 # Learning Project: Next Auth and Token-Based Authentication
 
 ## Introduction
